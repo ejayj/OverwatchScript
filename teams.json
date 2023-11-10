@@ -1,0 +1,73 @@
+{
+    "Items": [
+        {
+            "Time": "2023-11-02T05:40:00.977885",
+            "Index": "0",
+            "PlayerPool": [
+                "{\"py/object\": \"teams.Player\", \"name\": \"Ejay\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Jade\", \"role\": [\"Support\"], \"rank\": 3, \"queuedroles\": [\"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Shane\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Meredith\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Squilly\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 1, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Luke\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Nick\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Baj\", \"role\": [\"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Wanda\", \"role\": [\"Support\"], \"rank\": 1, \"queuedroles\": [\"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Mike\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Kyle\", \"role\": [\"Tank\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Moses\", \"role\": [\"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"DPS\", \"Support\"]}"
+            ],
+            "Teams": [
+                "{\"py/object\": \"teams.Team\", \"teamid\": 0, \"maxplayers\": 6, \"filledroles\": [], \"achievedroles\": [\"Tank\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Support\", \"Tank\", \"Support\", \"Tank\", \"DPS\"], \"rank\": 15, \"players\": [{\"py/object\": \"teams.Player\", \"name\": \"Shane\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Squilly\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 1, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Moses\", \"role\": [\"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Luke\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Kyle\", \"role\": [\"Tank\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Mike\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}], \"playercount\": 6, \"support\": 0, \"tank\": 0, \"dps\": 0, \"rolelock\": true}",
+                "{\"py/object\": \"teams.Team\", \"teamid\": 1, \"maxplayers\": 6, \"filledroles\": [\"Support\"], \"achievedroles\": [\"DPS\", \"Support\", \"Support\", \"Tank\", \"DPS\", \"Support\", \"Support\", \"Tank\", \"DPS\", \"Tank\", \"DPS\"], \"rank\": 13, \"players\": [{\"py/object\": \"teams.Player\", \"name\": \"Baj\", \"role\": [\"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Wanda\", \"role\": [\"Support\"], \"rank\": 1, \"queuedroles\": [\"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Ejay\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Jade\", \"role\": [\"Support\"], \"rank\": 3, \"queuedroles\": [\"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Meredith\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Nick\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\"]}], \"playercount\": 6, \"support\": 2, \"tank\": 0, \"dps\": 0, \"rolelock\": true}"
+            ],
+            "Rejects": []
+        },
+        {
+            "Time": "2023-11-02T05:40:02.819058",
+            "Index": "1",
+            "PlayerPool": [
+                "{\"py/object\": \"teams.Player\", \"name\": \"Ejay\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Jade\", \"role\": [\"Support\"], \"rank\": 3, \"queuedroles\": [\"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Shane\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Meredith\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Squilly\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 1, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Luke\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Nick\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Baj\", \"role\": [\"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Wanda\", \"role\": [\"Support\"], \"rank\": 1, \"queuedroles\": [\"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Mike\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Kyle\", \"role\": [\"Tank\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Moses\", \"role\": [\"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"DPS\", \"Support\"]}"
+            ],
+            "Teams": [
+                "{\"py/object\": \"teams.Team\", \"teamid\": 0, \"maxplayers\": 6, \"filledroles\": [], \"achievedroles\": [\"Tank\", \"DPS\", \"Tank\", \"DPS\", \"Support\", \"Tank\", \"Support\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Support\"], \"rank\": 15, \"players\": [{\"py/object\": \"teams.Player\", \"name\": \"Mike\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Squilly\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 1, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Jade\", \"role\": [\"Support\"], \"rank\": 3, \"queuedroles\": [\"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Kyle\", \"role\": [\"Tank\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Moses\", \"role\": [\"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Luke\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}], \"playercount\": 6, \"support\": 1, \"tank\": 0, \"dps\": 0, \"rolelock\": true}",
+                "{\"py/object\": \"teams.Team\", \"teamid\": 1, \"maxplayers\": 6, \"filledroles\": [], \"achievedroles\": [\"Tank\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Support\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Support\", \"Support\"], \"rank\": 13, \"players\": [{\"py/object\": \"teams.Player\", \"name\": \"Nick\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Shane\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Meredith\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Baj\", \"role\": [\"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Ejay\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Wanda\", \"role\": [\"Support\"], \"rank\": 1, \"queuedroles\": [\"Support\"]}], \"playercount\": 6, \"support\": 1, \"tank\": 0, \"dps\": 0, \"rolelock\": true}"
+            ],
+            "Rejects": []
+        },
+        {
+            "Time": "2023-11-02T05:40:03.187579",
+            "Index": "2",
+            "PlayerPool": [
+                "{\"py/object\": \"teams.Player\", \"name\": \"Ejay\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Jade\", \"role\": [\"Support\"], \"rank\": 3, \"queuedroles\": [\"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Shane\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Meredith\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Squilly\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 1, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Luke\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Nick\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Baj\", \"role\": [\"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"DPS\", \"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Wanda\", \"role\": [\"Support\"], \"rank\": 1, \"queuedroles\": [\"Support\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Mike\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Kyle\", \"role\": [\"Tank\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\"]}",
+                "{\"py/object\": \"teams.Player\", \"name\": \"Moses\", \"role\": [\"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"DPS\", \"Support\"]}"
+            ],
+            "Teams": [
+                "{\"py/object\": \"teams.Team\", \"teamid\": 0, \"maxplayers\": 6, \"filledroles\": [\"Support\"], \"achievedroles\": [\"Tank\", \"DPS\", \"Tank\", \"Support\", \"Support\", \"Support\", \"Tank\", \"DPS\", \"Tank\", \"DPS\"], \"rank\": 15, \"players\": [{\"py/object\": \"teams.Player\", \"name\": \"Mike\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Kyle\", \"role\": [\"Tank\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Jade\", \"role\": [\"Support\"], \"rank\": 3, \"queuedroles\": [\"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Wanda\", \"role\": [\"Support\"], \"rank\": 1, \"queuedroles\": [\"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Luke\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Nick\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\"]}], \"playercount\": 6, \"support\": 2, \"tank\": 0, \"dps\": 0, \"rolelock\": true}",
+                "{\"py/object\": \"teams.Team\", \"teamid\": 1, \"maxplayers\": 6, \"filledroles\": [], \"achievedroles\": [\"DPS\", \"Support\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Tank\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Support\", \"Tank\", \"DPS\", \"Support\"], \"rank\": 13, \"players\": [{\"py/object\": \"teams.Player\", \"name\": \"Baj\", \"role\": [\"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Moses\", \"role\": [\"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Squilly\", \"role\": [\"Tank\", \"DPS\"], \"rank\": 1, \"queuedroles\": [\"Tank\", \"DPS\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Meredith\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Ejay\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 2, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}, {\"py/object\": \"teams.Player\", \"name\": \"Shane\", \"role\": [\"Tank\", \"DPS\", \"Support\"], \"rank\": 3, \"queuedroles\": [\"Tank\", \"DPS\", \"Support\"]}], \"playercount\": 6, \"support\": 0, \"tank\": 0, \"dps\": 0, \"rolelock\": true}"
+            ],
+            "Rejects": []
+        }
+    ]
+}
