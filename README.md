@@ -24,3 +24,6 @@ Todo:
 3. Finishing objectives 1-5, 
 4. Create small, basic front end css so the website's functions can be displayed (?)
 5. host to github for development (?)(not full publish, just running the code. paste link here)
+
+Ideas:
+1. Maybe i can keep the python, and chat between python and javascript using json. I can input the user data and team paramaters from javascript to python via json ajax, and trigger the script. The script creates a json file anyway, so I can keep that component and create the rest in javascript if possible.
