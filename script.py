@@ -104,6 +104,7 @@ def checkplayerrejects():
 def printteam(team):  # make a function that returns a team based off id
     for players in team.players:
         print(f"{players}, {players.queuedroles}") #, {players.rank}
+    print(f"Team Rank: {team.rank}") #i can comment this out
     #print(team.rank)    
 
 
